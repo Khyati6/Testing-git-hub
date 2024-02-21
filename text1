@@ -1,2 +1,11 @@
 Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.Flutter code compiles to ARM or Intel machine code as well as JavaScript, for fast performance on any device.
 Flutter is a natively compliled app.
+Flutter has various feature like -
+     hot reload
+     hot restart
+     Single Codebase
+     A Wide Variety of Rich Widgets
+     Access to Native Features
+     Publicly Accessible
+     Better Performing with the Dart, Skia, and DevTool
+     
